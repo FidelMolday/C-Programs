@@ -1,0 +1,15 @@
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/obj/Debug/net8.0/csharppractise.GeneratedMSBuildEditorConfig.editorconfig
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/obj/Debug/net8.0/csharppractise.AssemblyInfoInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/obj/Debug/net8.0/csharppractise.AssemblyInfo.cs
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/obj/Debug/net8.0/csharppractise.csproj.CoreCompileInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/obj/Debug/net8.0/csharppractise.sourcelink.json
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/bin/Debug/net8.0/csharppractise
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/bin/Debug/net8.0/csharppractise.deps.json
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/bin/Debug/net8.0/csharppractise.runtimeconfig.json
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/bin/Debug/net8.0/csharppractise.dll
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/bin/Debug/net8.0/csharppractise.pdb
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/obj/Debug/net8.0/csharppractise.dll
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/obj/Debug/net8.0/refint/csharppractise.dll
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/obj/Debug/net8.0/csharppractise.pdb
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/obj/Debug/net8.0/csharppractise.genruntimeconfig.cache
+/home/fidel/Desktop/Desktop/C# practice/csharppractise/obj/Debug/net8.0/ref/csharppractise.dll
