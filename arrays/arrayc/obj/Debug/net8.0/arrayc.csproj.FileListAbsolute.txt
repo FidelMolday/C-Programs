@@ -1,0 +1,15 @@
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/bin/Debug/net8.0/arrayc
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/bin/Debug/net8.0/arrayc.deps.json
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/bin/Debug/net8.0/arrayc.runtimeconfig.json
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/bin/Debug/net8.0/arrayc.dll
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/bin/Debug/net8.0/arrayc.pdb
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/obj/Debug/net8.0/arrayc.GeneratedMSBuildEditorConfig.editorconfig
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/obj/Debug/net8.0/arrayc.AssemblyInfoInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/obj/Debug/net8.0/arrayc.AssemblyInfo.cs
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/obj/Debug/net8.0/arrayc.csproj.CoreCompileInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/obj/Debug/net8.0/arrayc.sourcelink.json
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/obj/Debug/net8.0/arrayc.dll
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/obj/Debug/net8.0/refint/arrayc.dll
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/obj/Debug/net8.0/arrayc.pdb
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/obj/Debug/net8.0/arrayc.genruntimeconfig.cache
+/home/fidel/Desktop/Desktop/C# practice/arrays/arrayc/obj/Debug/net8.0/ref/arrayc.dll
