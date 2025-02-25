@@ -1,0 +1,15 @@
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/obj/Debug/net8.0/oddoreven.GeneratedMSBuildEditorConfig.editorconfig
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/obj/Debug/net8.0/oddoreven.AssemblyInfoInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/obj/Debug/net8.0/oddoreven.AssemblyInfo.cs
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/obj/Debug/net8.0/oddoreven.csproj.CoreCompileInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/obj/Debug/net8.0/oddoreven.sourcelink.json
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/bin/Debug/net8.0/oddoreven
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/bin/Debug/net8.0/oddoreven.deps.json
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/bin/Debug/net8.0/oddoreven.runtimeconfig.json
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/bin/Debug/net8.0/oddoreven.dll
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/bin/Debug/net8.0/oddoreven.pdb
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/obj/Debug/net8.0/oddoreven.dll
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/obj/Debug/net8.0/refint/oddoreven.dll
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/obj/Debug/net8.0/oddoreven.pdb
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/obj/Debug/net8.0/oddoreven.genruntimeconfig.cache
+/home/fidel/Desktop/Desktop/C# practice/Loops/oddoreven/obj/Debug/net8.0/ref/oddoreven.dll

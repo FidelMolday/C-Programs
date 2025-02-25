@@ -1,0 +1,15 @@
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/bin/Debug/net8.0/cshapsloops
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/bin/Debug/net8.0/cshapsloops.deps.json
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/bin/Debug/net8.0/cshapsloops.runtimeconfig.json
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/bin/Debug/net8.0/cshapsloops.dll
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/bin/Debug/net8.0/cshapsloops.pdb
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/obj/Debug/net8.0/cshapsloops.GeneratedMSBuildEditorConfig.editorconfig
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/obj/Debug/net8.0/cshapsloops.AssemblyInfoInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/obj/Debug/net8.0/cshapsloops.AssemblyInfo.cs
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/obj/Debug/net8.0/cshapsloops.csproj.CoreCompileInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/obj/Debug/net8.0/cshapsloops.sourcelink.json
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/obj/Debug/net8.0/cshapsloops.dll
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/obj/Debug/net8.0/refint/cshapsloops.dll
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/obj/Debug/net8.0/cshapsloops.pdb
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/obj/Debug/net8.0/cshapsloops.genruntimeconfig.cache
+/home/fidel/Desktop/Desktop/C# practice/Loops/cshapsloops/obj/Debug/net8.0/ref/cshapsloops.dll
