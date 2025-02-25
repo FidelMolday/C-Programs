@@ -1,0 +1,15 @@
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/bin/Debug/net8.0/function3
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/bin/Debug/net8.0/function3.deps.json
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/bin/Debug/net8.0/function3.runtimeconfig.json
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/bin/Debug/net8.0/function3.dll
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/bin/Debug/net8.0/function3.pdb
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/obj/Debug/net8.0/function3.GeneratedMSBuildEditorConfig.editorconfig
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/obj/Debug/net8.0/function3.AssemblyInfoInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/obj/Debug/net8.0/function3.AssemblyInfo.cs
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/obj/Debug/net8.0/function3.csproj.CoreCompileInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/obj/Debug/net8.0/function3.sourcelink.json
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/obj/Debug/net8.0/function3.dll
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/obj/Debug/net8.0/refint/function3.dll
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/obj/Debug/net8.0/function3.pdb
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/obj/Debug/net8.0/function3.genruntimeconfig.cache
+/home/fidel/Desktop/Desktop/C# practice/Fun/function3/obj/Debug/net8.0/ref/function3.dll

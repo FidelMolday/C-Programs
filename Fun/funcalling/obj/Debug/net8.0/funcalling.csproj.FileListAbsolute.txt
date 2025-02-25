@@ -1,0 +1,15 @@
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/bin/Debug/net8.0/funcalling
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/bin/Debug/net8.0/funcalling.deps.json
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/bin/Debug/net8.0/funcalling.runtimeconfig.json
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/bin/Debug/net8.0/funcalling.dll
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/bin/Debug/net8.0/funcalling.pdb
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/obj/Debug/net8.0/funcalling.GeneratedMSBuildEditorConfig.editorconfig
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/obj/Debug/net8.0/funcalling.AssemblyInfoInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/obj/Debug/net8.0/funcalling.AssemblyInfo.cs
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/obj/Debug/net8.0/funcalling.csproj.CoreCompileInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/obj/Debug/net8.0/funcalling.sourcelink.json
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/obj/Debug/net8.0/funcalling.dll
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/obj/Debug/net8.0/refint/funcalling.dll
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/obj/Debug/net8.0/funcalling.pdb
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/obj/Debug/net8.0/funcalling.genruntimeconfig.cache
+/home/fidel/Desktop/Desktop/C# practice/Fun/funcalling/obj/Debug/net8.0/ref/funcalling.dll

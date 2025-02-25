@@ -1,0 +1,5 @@
+/home/fidel/Desktop/Desktop/C# practice/Fun/function2/obj/Debug/net8.0/function2.GeneratedMSBuildEditorConfig.editorconfig
+/home/fidel/Desktop/Desktop/C# practice/Fun/function2/obj/Debug/net8.0/function2.AssemblyInfoInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/Fun/function2/obj/Debug/net8.0/function2.AssemblyInfo.cs
+/home/fidel/Desktop/Desktop/C# practice/Fun/function2/obj/Debug/net8.0/function2.csproj.CoreCompileInputs.cache
+/home/fidel/Desktop/Desktop/C# practice/Fun/function2/obj/Debug/net8.0/function2.sourcelink.json
